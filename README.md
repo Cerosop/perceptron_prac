@@ -1,5 +1,5 @@
 ## perceptron_prac
-Implemented a perceptron manially using Python to train and classify data
+Manually Implemented a perceptron using Python to train and classify data
 
 ### 使用語言及技術
 python、類神經網路、機器學習
